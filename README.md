@@ -24,7 +24,7 @@
 
 4.  **Deployed**
 
-    The site is deployed on Gatsby Cloud at https://perfectas.gatsbyjs.io/
+    The site is deployed on Gatsby Cloud at https://perfectasaqp.gatsbyjs.io/
 
 5.  **Gatsby Information (Learn more)**
 
